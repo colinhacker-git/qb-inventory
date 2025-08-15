@@ -4,6 +4,9 @@
 - [qb-core](https://github.com/qbcore-framework/qb-core)
 - [qb-smallresources](https://github.com/qbcore-framework/qb-smallresources) - For logging transfer and other history
 
+## Preview 
+https://i.imghippo.com/files/hGX8385uZ.png
+
 ## Features
 - Stashes (Personal and/or Shared)
 - Vehicle Trunk & Glovebox
