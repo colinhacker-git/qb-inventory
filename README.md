@@ -6,6 +6,12 @@
 
 ## Preview 
 https://i.imghippo.com/files/hGX8385uZ.png
+## Credits
+
+All credit goes to original creators, i only tweaked a few CSS things to give it a different color and a different drop shadow.
+So shoutout to the original designers and the qb core teams for allowing us to be able to do this.
+
+
 
 ## Features
 - Stashes (Personal and/or Shared)
